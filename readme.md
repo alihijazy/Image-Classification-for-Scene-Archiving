@@ -52,9 +52,13 @@ The best performing model in this project was a neural network model of the belo
 ### Model performance
 The model scored 87% accuracy on the training data and 86% accuracy on the test data, with a validation loss of 0.4.  
 #### Accuracy and Loss  
-![Alt Text](C:\Users\alihi\Documents\Flatiron\Phase 4\project\kaggle\images\model_3_Accuracy_and_loss.png)
+![Alt Text](https://github.com/alihijazy/Image-Classification-for-Scene-Archiving/blob/master/images/model_3_Accuracy_and_loss.png)
 
 #### Confusion matrix
+![Alt Text](https://github.com/alihijazy/Image-Classification-for-Scene-Archiving/blob/master/images/model_3_confusion_matrix.png)  
+  
+#### Batch results
+![Alt Text](https://github.com/alihijazy/Image-Classification-for-Scene-Archiving/blob/master/images/model_3_guesses.png)  
 
 ## Recommendations
 1. **Implementation of the Image Classification Model:**
